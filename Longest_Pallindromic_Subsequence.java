@@ -8,7 +8,7 @@ Example 1:
 
 Input: s = "bbbab"
 Output: 4
-Explanation: One possible longest palindromic subsequence is "bbbb".
+Explanation: One possible longest palindromic subsequence is "bbbb"
 Example 2:
 
 Input: s = "cbbd"
